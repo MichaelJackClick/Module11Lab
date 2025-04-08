@@ -13,12 +13,12 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/Unknown-2.jpg",
-      "PackagePath": "staticwebassets/images/Unknown-2.jpg"
+      "Id": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/classic_debugger.jpg",
+      "PackagePath": "staticwebassets/images/classic_debugger.jpg"
     },
     {
-      "Id": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/Unknown.jpg",
-      "PackagePath": "staticwebassets/images/Unknown.jpg"
+      "Id": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/coder_duck.jpg",
+      "PackagePath": "staticwebassets/images/coder_duck.jpg"
     },
     {
       "Id": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/js/site.js",

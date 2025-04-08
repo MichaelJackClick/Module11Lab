@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xywkakdh3ZMJjNz2poAZyI+RY6iKNTem1+fjCLW4LV8=",
+  "Hash": "K4u6c5y4h2/QOBKLZGCqNw6LW22WcyxOXtZdaa9FsHA=",
   "Source": "RubberDuckStore",
   "BasePath": "_content/RubberDuckStore",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/Unknown-2.jpg",
+      "Identity": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/classic_debugger.jpg",
       "SourceId": "RubberDuckStore",
       "SourceType": "Discovered",
       "ContentRoot": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/",
       "BasePath": "_content/RubberDuckStore",
-      "RelativePath": "images/Unknown-2.jpg",
+      "RelativePath": "images/classic_debugger.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Unknown-2.jpg"
+      "OriginalItemSpec": "wwwroot/images/classic_debugger.jpg"
     },
     {
-      "Identity": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/Unknown.jpg",
+      "Identity": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/images/coder_duck.jpg",
       "SourceId": "RubberDuckStore",
       "SourceType": "Discovered",
       "ContentRoot": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/",
       "BasePath": "_content/RubberDuckStore",
-      "RelativePath": "images/Unknown.jpg",
+      "RelativePath": "images/coder_duck.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Unknown.jpg"
+      "OriginalItemSpec": "wwwroot/images/coder_duck.jpg"
     },
     {
       "Identity": "/workspaces/Module11Lab/RubberDuckStore/wwwroot/js/site.js",
